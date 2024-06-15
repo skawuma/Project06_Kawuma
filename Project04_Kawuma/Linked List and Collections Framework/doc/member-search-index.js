@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.skawuma.entity","c":"LinkedListAndCollectionFramework","l":"LinkedListAndCollectionFramework()","u":"%3Cinit%3E()"},{"p":"org.skawuma.entity","c":"LinkedListAndCollectionFramework","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

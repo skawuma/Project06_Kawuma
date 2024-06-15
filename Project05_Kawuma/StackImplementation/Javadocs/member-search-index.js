@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.skawuma","c":"StackImpl","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"org.skawuma","c":"StackImpl","l":"StackImpl()","u":"%3Cinit%3E()"}];updateSearchResults();
